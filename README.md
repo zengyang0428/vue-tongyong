@@ -1,24 +1,22 @@
-# vue-tongyuan
+# vue2 后台通用管理系统
 
-## Project setup
+## 项目依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 项目启动
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目编译
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints和修复文件
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+用问题请第一时间提出来
